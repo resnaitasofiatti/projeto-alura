@@ -31,3 +31,15 @@ hi{
 p{
     font-size: 20px;
 }
+img{
+    height: 200px;
+}
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
