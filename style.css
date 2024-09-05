@@ -43,3 +43,14 @@ img{
     overflow-x: auto;
     gap: 10px;
 }
+.categoria-videos img{
+    opacity: 1.0;
+    height: 200 px;
+}
+.chamada-videos img:hover{
+    opacity:1.0;
+    border:3px solid gray;
+}
+.categoria h2{
+    color:bisque
+}
